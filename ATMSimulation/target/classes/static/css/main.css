@@ -1,0 +1,31 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+.error {
+	color: red;
+}
+
+.panel-error2 {
+	border: 1px solid #cd0a0a;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+	margin-bottom: 5px;
+	margin-top: 0;
+	font-size: 14px;
+	background-color: #f2dede;
+	padding: 5px 15px;
+	color: #cd0a0a;
+	width: 300px;
+	position: relative;
+	left: 5px;
+}
+
+.leftlayout {
+       left: 248px;
+}

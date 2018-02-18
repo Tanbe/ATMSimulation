@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ATMSimulation
+Implementation-Version: 1.0.0
+Built-By: Kittiwat
+Implementation-Vendor-Id: com.atm.sim
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/ATMSimulatio
+ n/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
